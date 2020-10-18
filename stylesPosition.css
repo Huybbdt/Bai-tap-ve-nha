@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+
+}
+.item-left{
+    width: 40em;
+    height: 20em;
+    background-color: rgb(228, 208, 29);
+
+}
+.item-right1{
+    width: 40em;
+    height: 20em;
+    background-color: rgb(17, 211, 91);
+    
+}
+.item-right2{
+    width: 40em;
+    height: 20em;
+    background-color: rgb(18, 47, 209);
+    
+}
+/* Dành cho điện thoại */
+@media all and (max-width: 800px) {
+    .container {
+        display: block;
+        
+    }
+}
+ 

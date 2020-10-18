@@ -1,0 +1,6 @@
+-Flexbox để thiết lập bố cục trong phạm vi nhỏ ko cần thiết lập kích thước ,
+ dùng để chia bố cục
+ flex-direction , flex-grow ,flex-wrap:
+-Block khi tạo ra 1 hàng riêng biệt ( <div> <h1> <p> < ul>)
+-inline khi tạo ra có thể đứng trên 1 dòng ( <span> <strong> <a>)
+-inline block 
